@@ -86,8 +86,12 @@ body {
 }
 
 a {
-  border-bottom: 1px dotted var(--color-white);
+  border-bottom: 1px dotted var(--color-asphalt);
   text-decoration: none;
+  color: var(--color-asphalt);
+}
+
+.smalltext {
   color: var(--color-white);
 }
 
