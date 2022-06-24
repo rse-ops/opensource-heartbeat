@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
       - name: Open Source Heartbeat Action      
-        uses: rseng/opensource-heartbeat-action@add/users-from-orgs-and-event-selection
+        uses: rseng/opensource-heartbeat-action@v1.0.9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
