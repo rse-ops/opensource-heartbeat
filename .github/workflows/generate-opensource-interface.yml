@@ -3,7 +3,7 @@ name: opensource-heartbeat
 on:
   # nightly at 4:30am
   schedule:   
-    - cron: 30 4 * * *
+    - cron: 5 4 * * sun
 
 jobs:
   Update:
