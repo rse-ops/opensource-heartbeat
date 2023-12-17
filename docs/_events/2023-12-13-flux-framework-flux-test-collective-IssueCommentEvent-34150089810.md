@@ -1,0 +1,15 @@
+---
+event_type: IssueCommentEvent
+avatar: "https://avatars.githubusercontent.com/u/13199119?"
+user: wihobbs
+date: 2023-12-13
+repo_name: flux-framework/flux-test-collective
+html_url: https://github.com/flux-framework/flux-test-collective/pull/7
+repo_url: https://github.com/flux-framework/flux-test-collective
+---
+
+<a href='https://github.com/wihobbs' target='_blank'>wihobbs</a> commented on issue <a href='https://github.com/flux-framework/flux-test-collective/pull/7' target='_blank'>flux-framework/flux-test-collective#7</a>.
+
+<small>[I'll also add the logfile here on corona in case you wanted to see it.](https://lc.llnl.gov/gitlab/hobbs17/flux-test-collective/-/jobs/1572414)...</small>
+
+<a href='https://github.com/flux-framework/flux-test-collective/pull/7' target='_blank'>View Comment</a>
