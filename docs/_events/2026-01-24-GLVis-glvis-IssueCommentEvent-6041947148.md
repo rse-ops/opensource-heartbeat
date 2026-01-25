@@ -1,0 +1,15 @@
+---
+event_type: IssueCommentEvent
+avatar: "https://avatars.githubusercontent.com/u/1278247?"
+user: tzanio
+date: 2026-01-24
+repo_name: GLVis/glvis
+html_url: https://github.com/GLVis/glvis/pull/335
+repo_url: https://github.com/GLVis/glvis
+---
+
+<a href='https://github.com/tzanio' target='_blank'>tzanio</a> commented on issue <a href='https://github.com/GLVis/glvis/pull/335' target='_blank'>GLVis/glvis#335</a>.
+
+<small>@najlkin can you please resolve the conflicts?...</small>
+
+<a href='https://github.com/GLVis/glvis/pull/335' target='_blank'>View Comment</a>
