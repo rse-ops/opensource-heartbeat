@@ -8,6 +8,6 @@ html_url: https://github.com/llnl/benchmarks/issues/9
 repo_url: https://github.com/llnl/benchmarks
 ---
 
-<a href='https://github.com/amagela' target='_blank'>amagela</a> open issue <a href='https://github.com/llnl/benchmarks/issues/9' target='_blank'>llnl/benchmarks#9</a>.
+<a href='https://github.com/amagela' target='_blank'>amagela</a> closed issue <a href='https://github.com/llnl/benchmarks/issues/9' target='_blank'>llnl/benchmarks#9</a>.
 
 <p>Write Sparta docs</p><small>- [ ] https://github.com/LLNL/benchmarks/blob/develop/docs/31_sparta/sparta.rst...</small><a href='https://github.com/llnl/benchmarks/issues/9' target='_blank'>View Comment</a>
